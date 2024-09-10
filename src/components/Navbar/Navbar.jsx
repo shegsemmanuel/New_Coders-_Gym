@@ -16,7 +16,7 @@ const Navbar = () => {
           {/* { Logo section } */} 
           <div className="text-2xl flex items-center gap-2 font-bold uppercase">
             <FaDumbbell />
-            <p>Coders</p>
+            <p>Annexy</p>
             <p className="text-secondary">Gym</p>
           </div>
          {/* {/ { Menu section } */}
