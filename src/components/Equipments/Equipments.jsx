@@ -10,14 +10,14 @@ const EquipmentData = [
     {
         id:1,
         title:"Yoga Equipments",
-        desc:"It is a long established fact that a reader readable.",
+        desc:"Yoga equipment plays a crucial role in enhancing the practice and experience of yoga.",
         icon: <GrYoga />,
         delay: 0.3, 
     },
     {
         id: 2,
         title: "Muscles Equipments",
-        desc: "It is a long established fact that a reader readable.",
+        desc: "Essential items like muscles equipments provide the necessary grip and cushioning for poses, ensuring comfort and stability.",
         link: "/",
         icon: <FaDumbbell />,
         delay: 0.6,
@@ -25,7 +25,7 @@ const EquipmentData = [
     {
         id: 3,
         title: "Fitness Equipments",
-        desc: "It is a long established fact that a reader readable.",
+        desc: "Fitness equipment is essential for achieving a wide range of workout goals, from building strength to improving cardiovascular health. ",
         link: "/",
         icon: <GiGymBag />,
         delay: 0.9,
@@ -39,7 +39,7 @@ const Equipments = () => {
            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 font-playfair">
              <div className="space-y-4 p-6">
                 <h1 className="text-3xl md:text-4xl font-bold">What we offer for you</h1>
-                <p className="text-gray-500">It is a long established fact that a reader readable.</p>
+                <p className="text-gray-500">we give quality effective fitness workouts for users of all fitness levels.</p>
              </div>
              {EquipmentData.map((item) => {
                 return (
