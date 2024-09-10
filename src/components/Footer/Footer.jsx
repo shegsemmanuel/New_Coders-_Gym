@@ -10,11 +10,11 @@ const Footer = () => {
             <div className='py-8 px-4 space-y-4'>
                 <div className='text-2xl flex items-center gap-2 font-bold uppercase'>
                     <FaDumbbell />
-                    <p>Coders</p>
+                    <p>Annexy</p>
                     <p className='text-secondary'>Gym</p>
                 </div>
                 <p>
-                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ipsa, exercitationem dolore culpa doloremque voluptates cumque optio numquam aspernatur odio. 
+                Whether for personal use or a commercial gym, we give quality fitness equipment to ensures safe, effective workouts for users of all fitness levels.
                 </p>
                 <div className='flex items-center justify-start gap-5 !mt-6'>
                     <a href="#">

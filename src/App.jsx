@@ -15,7 +15,7 @@ const BannerData = {
   image: Img1,
   title: "The Important To Take Care Of Yourself",
   subtitle: 
-    "The Important To Take Care Of Yourself Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic molestiae cum ex dolore dolorem quibusdam deleniti quae. Repellendus consequatur iure culpa excepturi eius dolores, placeat necessitatibus itaque dolorem ea officia!.",
+    "Taking care of yourself is essential for maintaining both physical and mental well-being. By prioritizing self-care, you can boost your energy levels, improve your immune system, and prevent the onset of chronic illnesses. Regular exercise, balanced nutrition, and sufficient sleep are key elements of self-care that help the body function at its best.",
     link: "#",
 };
 
@@ -23,7 +23,7 @@ const Banner2Data = {
   image: Img2,
   title: "The Important To Take Care Of Yourself",
   subtitle: 
-    "The Important To Take Care of Yourself   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic molestiae cum ex dolore dolorem quibusdam deleniti quae. Repellendus consequatur iure culpa excepturi eius dolores, placeat necessitatibus itaque dolorem ea officia!.",
+    "Mental and emotional health is equally important when it comes to self-care. Engaging in activities that bring joy, relaxation, and peace, such as meditation, hobbies, or spending time with loved ones can help reduce anxiety and improve overall happiness. Setting boundaries, practicing mindfulness, and taking breaks from a busy schedule are also vital components of maintaining balance.",
     link: "#",
 };
 
