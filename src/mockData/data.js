@@ -88,3 +88,34 @@ export const ProductsData = [
         price: "$100",
     },
 ];
+
+export const TestimonialsData = [
+    {
+        id: 1,
+        name: "John Doe",
+        text: "lorem ispsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio,",
+        img: "https://picsum.photos/101/101",
+        delay: 0.2,
+    },
+    {
+        id: 2,
+        name: "Steve Smith",
+        text: "lorem ispsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio,",
+        img: "https://picsum.photos/102/102",
+        delay: 0.5,
+    },
+    {
+        id: 3,
+        name: "Kristen",
+        text: "lorem ispsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio,",
+        img: "https://picsum.photos/104/104",
+        delay: 0.8,
+    },
+    {
+        id: 5,
+        name: "Ariana",
+        text: "lorem ispsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio,",
+        img: "https://picsum.photos/103/103",
+        delay: 1.1,
+    },
+]
