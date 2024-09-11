@@ -24,8 +24,8 @@ const Hero = () => {
                initial="hidden"
                animate="visible" 
                className='text-gray-600 xl:max-w-[500px]'>   
-               It is a long established fact that a reader will be by readable
-               content of a page when are the best product.
+              Where fitness meets motivation our expert trainers are here to inspire,transform and help you succeed.
+              Your fitness goals are within reach!.
             </motion.p>  
             {/* button section */}
             <motion.div 
