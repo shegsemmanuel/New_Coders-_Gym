@@ -25,7 +25,7 @@ const Hero = () => {
                animate="visible" 
                className='text-gray-600 xl:max-w-[500px]'>   
               Where fitness meets motivation our expert trainers are here to inspire,transform and help you succeed.
-              Your fitness goals are within reach!
+              Your fitness goals are within reach!.
             </motion.p>  
             {/* button section */}
             <motion.div 
